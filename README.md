@@ -25,5 +25,5 @@ After installation, run the script.
 
 ## Video example
 
-![App Screenshot](https://github.com/ulvial1ev/GestureControlPrototype/blob/main/video.gif)
+Locate video.gif in the repository.
 
