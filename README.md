@@ -25,5 +25,5 @@ After installation, run the script.
 
 ## Video example
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/nfccc-2e71a.appspot.com/o/ezgif-4-a722729b82.gif?alt=media&token=e260c47d-7b38-43c6-a2b0-ffbfb87a982f)
+![App Screenshot](https://github.com/ulvial1ev/GestureControlPrototype/blob/main/video.gif)
 
